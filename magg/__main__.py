@@ -1,7 +1,7 @@
-from . import process
+from magg import process
 
 process.setup()
 
-from .cli import main
+from magg.cli import main
 
 main()
