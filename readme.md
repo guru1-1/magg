@@ -486,7 +486,7 @@ hierarchical Magg deployments fit in.
 
 ## Documentation
 
-For more documentation, see [docs/](docs/index.md).
+For more documentation, see [docs/](docs/index.md)
 
 ## Appearances
 
